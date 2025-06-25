@@ -1,0 +1,10 @@
+ 
+# Python virtual environment
+venv/
+__pycache__/
+
+# Environment variables (contains secret keys!)
+.env
+
+# Vector store database
+db_cache_groq/
